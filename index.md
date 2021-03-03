@@ -40,7 +40,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: ''
-  headline: "<strong>Wer sind wir?</strong>"
+  headline: <strong>Warum Sozialkontakte wichtig sind?<img src="/uploads/2021/03/03/img_20190705_121742.jpg"></strong>
   content: Ihr wollt miteinenander Spaß haben. Leute kenenlernen? Menschen treffen?<br>Integration/
     Kommunikation/ Inspiration.
   media:
@@ -81,5 +81,25 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: ''
+    slug: ''
+    content: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: ''
+    slug: ''
+    content: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
