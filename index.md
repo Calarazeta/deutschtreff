@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<br><strong>Deutschtreff</strong>"
+  headline: <img src="/uploads/2021/03/03/img_20160505_200244.jpg" title=" Sozialkontakte"><br><strong>Deutschtreff</strong>
   content: Sie suchen sozialen Kontakt und möchten Deutsch reden, sind ausländischer
     oder deutscher Mitbürger - dann sind Sie bei uns im Deutschtreff herzlich willkommen!Wer
     sind wir und was ist Deutschtreff? <br>Das Ziel ist jeden bei seinem Kenntnisstand
