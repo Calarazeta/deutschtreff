@@ -39,12 +39,12 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: swap
+  slug: ''
   headline: "<strong>Wer sind wir?</strong>"
   content: Ihr wollt miteinenander Spaß haben. Leute kenenlernen? Menschen treffen?<br>Integration/
     Kommunikation/ Inspiration.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2021/03/03/img_20210227_093647.jpg"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
